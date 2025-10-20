@@ -1,37 +1,22 @@
-# Medz - e-Portfolio
+# 🌍 Portfolio 🌍 
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mehdi_benayed?style=social)](https://twitter.com/intent/follow?screen_name=mehdi_benayed) 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Mehdi_In_Coding)
+## 🤖 Demo 
 
-Metz est mon portfolio personnel pleinement responsive, pour tous les appareils, Il est utilisé avec HTML, CSS, et JavaScript.
+🤖 Voici quelques captures d'écran de mon site web :
 
+### 💻 Bureau 💻 ![capture1 Desktop Demo](C:/Users/mbena/OneDrive/Bureau/developpement_web_portfolio/portfolio/images/visuel_ensemble.png "Capture d'écran Bureau") 
 
-## Demo
+### 📱 Mobile 📱 ![capture2 Mobile Demo](C:/Users/mbena/OneDrive/Bureau/developpement_web_portfolio/portfolio/images/visuel_projet.png "Capture d'écran Mobile") 
 
-![Medz Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Medz Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
-
-## Prérequis - prérequêtes
-
-Avant de commencer, veuillez faire en sorte que vous suivez à la lettre les consignes suivantes:
-
-* [Git](https://git-scm.com/downloads "Download Git") doit être installé sur une système operateur
-
-## Installation de Medz
-
-Pour installer **Meds**, Suivre les étapes :
+## 💬 Contact 💬 Si vous souhaitez me contacter, vous pouvez le faire via [Discord](https://discord.com/users/samourai3617) ou dans mes contacts depuis mon mail.
 
 
-Windows:
 
-```bash
-git clone https://github.com/Mehdi-In-Coding/portfolio.git
-```
 
-## Contact
 
-Si vous voulez me contacter sur [Twitter](https://www.twitter.com/b9_mehdi)
-Comme je n'utilise plus twitter vous pouvez aller sur [Instagram](https://www.instagram.com/b9_mehdi)
 
-## Licence
 
-MIT
+
+
