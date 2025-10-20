@@ -1,0 +1,238 @@
+Medz - Personal Portfolio
+
+# sidebar
+
+alt = Mehdi Benayed
+Mehdi Benayed
+Etudiant en BUT SD
+
+Montrer les contacts
+
+Email
+mbenayed09@gmail.com
+
+Phone
++33 6 95 77 23 18 
+
+Anniversaire
+9 sept., 2004
+
+Localisation
+Noisiel (77186), Seine-et-Marne, France
+
+# navbar
+
+Moi
+Carrières
+Portfolio (projet)
+Contact
+
+# about
+
+A propos de moi 
+
+Bonjour, je suis Mehdi Benayed, j'ai 19 ans. J'étudie les statistiques,
+             la conception, l'analyse des données et de projets dans le domaine de la Data à l'Université
+                            Rives de Seine.
+              Mon objectif est de devenir developper Front-End dans de grandes entreprises.
+               Ainsi, j'accumulerai de l'expérience grâce à des projets concrets liés à la Data pour enrichir 
+               mon bagage d'expérience.
+
+Pour atteindre mes objectifs, je m'engage à assurer la fonctionnalité et la 
+convivialité des idées, tout en les rendant attrayantes. Mon approche inclut l'ajout 
+d'une touche personnelle dans la conception, garantissant des solutions accrocheuses et faciles à utiliser.
+Parallèlement à mes études, je développe également mes compétences en analyses statistiques univariées/bivariées 
+et en test de régression, des connaissances qui renforceront ma formation en Sciences des Données à venir.
+Ma démarche proactive et créative se reflète également dans ma passion pour la photographie, un aspect de ma 
+personnalité que j'intègre dans mes projets liés à la Data.
+
+
+## Ce que je fais
+
+Ce que je suis entrain de faire quodiènnement et à l'IUT
+(1) : Portfolio
+
+(2) : Programmation Statistiques
+
+(3) : Organisation
+
+(4) : Photographie
+
+alt = design icon
+Portfolio
+(Création de ce site Web e-portfolio, d'un projets e-commerce shopify et d'un site e-travel website [en cours ..])
+
+alt = Web development icon
+Programmation Statistiques
+(Développement de qualité des logiciels (Rstudio, SQL, Tableau et Excel).)
+
+alt = mobile app icon
+Organisation
+(Au cours de mes projets, j'améliorais ma capacité à travailler en contactant différentes équipes via WhatsApp, Discord et Outlook vis-à-vis des professeurs.)
+
+alt = camera icon
+Photographie
+(J'aime beaucoup prendre des photos de nouveaux environnements, par exemple des Pays-Bas, de la Suisse, mais aussi d'autres villes de France lorsque je voyage.)
+
+
+## Témoignages
+
+Témoignages
+
+alt = N. ASSOUL (prof de Math au lycée, donne son accort à participer à la réalisation de mon site Web)
+N. ASSOUL
+14 June, 2021
+(J'ai eu Mehdi comme élève en classes de 1re et de terminale. Il s'est montré sérieux et investi. Son travail est régulier, il est curieux et toujours animé d'un souci de bien faire. Ses résultats étaient très satisfaisants.)
+
+alt = Yamine HIRECHE (si vous voulez)
+Yamine HIRECHE
+(texte)
+
+alt = Amine MEDDOUR (si vous voulez mettre un commentaire
+Amine MEDDOUR
+(texte)
+
+alt = Rincon MARC (si vous voulez mettre un commentaire
+Rincon MARC
+(texte)
+
+
+## clients
+Clients
+alt = client logo
+
+
+
+# Formations | Expériences
+
+Formations
+
+(1)
+Job D'été
+Juin — Août 2023
+- Préparateur de commandes
+- Gestions de commandes 
+- Notions de Logistiques)
+
+(2)
+Université Paris - Rives de Seine | BUT Sciences Des Données
+2022 — 2025
+- Spécialisation Analyse et Traitement statistiques des données.
+
+(3)
+Formation UDEMY | Noisiel, France
+Juill. 2022 - auj.
+- Formation Python UDEMY par le développeur Python Thomas Houdon (15 projets quiz et exercices effectués (Web, Data, Scripting et Bots).
+
+(4)
+Diplôme Du Baccalauréat Technologique | Lycée Polyvalent Simone Veil
+24 août 2022
+Baccalauréat STI2D, spécialités : "Système d'Information et Numérique" mention ASSEZ BIEN.
+...
+..
+.
+
+Mise en situation professionnelle à l'IUT
+
+(1)
+
+Enquête Évaluation Du Bilan Carbone Des Membres De L'IUT
+Nov.22 - Janv.23
+- Rédaction du questionnaire et saisie du logiciel LimeSurvey 
+- Traitement de la base de données, Excel
+- Analyse statistiques et présentation orale des résultats avec support visuel
+- Datavisualisation et PowerPoint en équipe
+
+(2)
+Projet Location De DVD
+17 janv. 2023
+- Aide à la décision pour l'implémentation d'un magasin de loueur de DVD. 
+- Extraction des données clients pertinentes avec SQL
+- Nettoyage des données et création d'un Reporting sous Excel à l'aide avec la MOE
+
+(3)
+Analyses Statistiques & Soft Skills
+fev.22 - Juin.22
+- Analyses des statistiques Univariées/Bivariées.
+- Utilisations de tableaux de contingences et vérification du test d'hypothèse de l'ANOVA.
+- Test de regression/ Loi Normale/ Loi Student/ Ki2
+- Nettoyage et analyse des données (Excel + Rstudio)
+- Création d'indicateurs et Reporting sous SQL.
+
+
+Mes compétences
+
+Python
+95%
+Rstudio
+87.5%
+SQL
+80%
+Office
+70%
+
+
+
+# Portfolio
+
+Portfolio
+{ Tous les images de projets dans le filtre "alt" seront liés avec mes codes depuis PowerPoint}
+
+All ( remplacé le "all" par "tous" erreur)
+Big Projet Étude Épidémiologie De Patients Atteints De Pathologies
+Rstudio
+
+Select category
+All
+Big Projet Étude Épidémiologie De Patients Atteints De Pathologies
+Rstudio
+
+alt = Big Projet Étude Épidémiologie De Patients Atteints De Pathologies
+All
+Rstudio
+
+alt = Projet Base De Donnée Relationnelle
+SQL/Excel
+
+alt = Élection Présidentielle 2020-2021
+Tableau
+election presidentielle 2020-2021
+
+alt = Réalisation D'une Base De Données, Groupe LAC
+Access (dans le alt vérifier pour les tri pour chaque section de les renommés en minusucles pour chaque alt des 3 sections : "Web 				Design", "Application", "Rstudio") 
+access
+
+
+alt = Projet Échantillonnage De 2 Pays Distincts
+Rstudio
+rstudio
+
+alt = Les Départements Les Plus Fréquentés De La SNCF En 2020
+Tableau/Excel
+tableau/excel
+
+alt = Sondage De L'émission Carbone Des Membres De L'IUT
+sondage de l'emission carbonne des membres de l'iut
+Excel
+excel
+
+alt = Manipulation Excel
+Excel
+excel
+
+...
+..
+.
+
+
+# Contact
+
+contact
+
+Contact Form ( clé API (lien hypertexte key-maps) de ma localisation)).
+
+Formulaire De Contact 
+Nom complet
+Adresse e-mail
+Votre Message
+Envoyer Le Message 
